@@ -11,6 +11,7 @@ These two boolean variables will tell the python file what to do:
 If trainModel == True, then the Python will create / train / and save a model
 If testModel == True, then the Python will test a given model on our HW test samples, which includes 195 png files
 
+
 Line 19 - 26
 
 As variable names suggest –
@@ -21,6 +22,7 @@ outputAddress is the text file where you want to save the training info of your 
 testSampleAddress is the the given folder which contains 195 png files to test the model
 Node: if you want to train and test your model at the same time, please make sure outputModelName is the same as inputModelName
 
+
 Line 28 - 44
 
 These are the variables which set up the architecture of your model, and control the training of your model, and will eventually determine the specs of your model.
@@ -29,6 +31,7 @@ I did not list all of the variables which influence your model, for a more compl
 
 Before you start to play with the code, you will also need to install tensorflow and PIL using pip.
 pip install Pillow
+
 pip install --upgrade tensorflow
 
 
