@@ -1,10 +1,10 @@
 # RecognizingHandwrittenDigits_TensorFlow
 This is a test of convolutional neural network using tensorflow
 
-1.	Set up the code
+Set up the code
 Before started, please take a look on the Python file, the user will need to set these values properly to run the Python code.
 
-Line 14 - 17 \n
+Line 14 - 17
 These two boolean variables will tell the python file what to do:
 If trainModel == True, then the Python will create / train / and save a model
 If testModel == True, then the Python will test a given model on our HW test samples, which includes 195 png files
