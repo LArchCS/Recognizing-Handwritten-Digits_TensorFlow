@@ -30,6 +30,7 @@ I did not list all of the variables which influence your model, for a more compl
 
 
 Before you start to play with the code, you will also need to install tensorflow and PIL using pip.
+
 pip install Pillow
 
 pip install --upgrade tensorflow
