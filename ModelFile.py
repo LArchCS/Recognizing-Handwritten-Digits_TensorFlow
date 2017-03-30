@@ -18,15 +18,15 @@ testModel = True
 
 # file locations
 # file name for create/train model
-outputModelName = "D:\HW4_model/Model3LayersSuper.ckpt"
+outputModelName = "D:/Model.ckpt"
 # file names for test model
-inputModelName = "D:\HW4_model/Model3LayersSuper.ckpt"
-annotationAddress = "D:\sample/annotation.txt"  # annotation.txt 's directory
-outputAddress = "D:\sample/output.txt"  # output.txt 's directory, to print out result
-testSampleAddress = "D:\sample/examples/"  # test sample png files's dirctory
+inputModelName = "D:/Model.ckpt"
+annotationAddress = "D:/sample/annotation.txt"  # annotation.txt 's directory
+outputAddress = "D:/sample/output.txt"  # output.txt 's directory, to print out result
+testSampleAddress = "D:/sample/examples/"  # test sample png files's dirctory
 
 # variables
-steps = 20000
+steps = 3000
 batchSize = 100
 convolution = (1, 1)
 kennelSize = (2, 2)
