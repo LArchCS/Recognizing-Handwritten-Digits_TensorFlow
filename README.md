@@ -36,6 +36,8 @@ pip install Pillow
 pip install --upgrade tensorflow
 
 
+This model's final accuracy rate is 93%, the highest in my 101A Artificial Intelligence class. This model was used later in my final term project to recognizing handwritten equations.
+
 
 
 
