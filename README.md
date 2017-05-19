@@ -1,7 +1,7 @@
 # RecognizingHandwrittenDigits_TensorFlow
 This is a test of convolutional neural network using tensorflow
 
-## Set up the code
+## Set up code
 Before started, please take a look on the Python file, the user will need to set these values properly to run the Python code.
 1. Line 14 - 17
 These two boolean variables will tell the python file what to do:
