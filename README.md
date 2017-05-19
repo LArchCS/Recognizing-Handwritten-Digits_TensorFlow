@@ -19,7 +19,7 @@ Node: if you want to train and test your model at the same time, please make sur
 These are the variables which set up the architecture of your model, and control the training of your model, and will eventually determine the specs of your model.
 I did not list all of the variables which influence your model, for a more complete description, visits the tersorflow official guide.
 
-## dependencies
+## Dependencies
 Before you start to play with the code, you will also need to install tensorflow and PIL using pip.
 1. pip install Pillow
 2. pip install --upgrade tensorflow
